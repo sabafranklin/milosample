@@ -43,6 +43,7 @@
 
 .tabs.xl-spacing {
   padding: var(--spacing-xl) 0;
+  background-color: burlywood;
 }
 
 .tabs.l-spacing {
@@ -328,6 +329,7 @@
 .tabs-background-transparent .tabs div[role="tablist"],
 .tabs-background-transparent .tabs div[role="tablist"] button[aria-selected="true"],
 .tabs-background-transparent .tabs .tab-paddles .paddle {
+background-color: burlywood;
   background: transparent;
 }
 
