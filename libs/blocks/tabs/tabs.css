@@ -330,7 +330,7 @@
 .tabs-background-transparent .tabs div[role="tablist"] button[aria-selected="true"],
 .tabs-background-transparent .tabs .tab-paddles .paddle {
 background-color: burlywood;
-  background: transparent;
+  
 }
 
 .tabs-background-transparent .tabs div[role="tablist"] button[aria-selected="true"] {
@@ -341,6 +341,7 @@ background-color: burlywood;
   [role='tabpanel'] > .section[class*='-up'] > .content,
   [role='tabpanel'] > .section[class*='grid-width-'] > .content {
     width: auto;
+    background-color: burlywood;
   }
 
   .tabs div[role="tablist"] button {
