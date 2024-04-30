@@ -341,7 +341,7 @@ background-color: burlywood;
   [role='tabpanel'] > .section[class*='-up'] > .content,
   [role='tabpanel'] > .section[class*='grid-width-'] > .content {
     width: auto;
-    background-color: burlywood;
+    
   }
 
   .tabs div[role="tablist"] button {
